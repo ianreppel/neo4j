@@ -3,8 +3,7 @@
  *
  * Code for post: Mapping a Value Stream in Neo4j
  * Compatibility: Neo4j 2.0.5
- * Base URL:      http://databaseline.wordpress.com
- * Post URL:      http://wp.me/p4zRKC-5n
+ * Base URL:      http://databaseline.bitbucket.io
  * Author:        Ian Hellström
  *
  * Notes:         OPTIONAL MATCH is available from 2.0.5
