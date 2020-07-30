@@ -3,7 +3,7 @@
  *
  * Code for post: Mapping a Value Stream in Neo4j
  * Compatibility: Neo4j 2.1.8
- * Base URL:      https://databaseline.bitbucket.io
+ * Base URL:      https://databaseline.tech
  * Author:        Ian Hellström
  *
  * Notes:         LOAD CSV is available from 2.1.8
