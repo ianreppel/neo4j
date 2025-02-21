@@ -3,8 +3,8 @@
  *
  * Code for post: Mapping a Value Stream in Neo4j
  * Compatibility: Neo4j 2.1.8
- * Base URL:      https://databaseline.tech
- * Author:        Ian Hellström
+ * Base URL:      https://ianreppel.org
+ * Author:        Ian Reppel
  *
  * Notes:         LOAD CSV is available from 2.1.8
  *                CREATE CONSTRAINT/INDEX are available from 2.0.5
